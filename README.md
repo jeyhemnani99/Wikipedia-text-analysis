@@ -20,9 +20,9 @@ Url:https://en.wikipedia.org/wiki/Sachin_Tendulkar
 
 output: | Words       |  Count  |
         | the 	      |  1338   |
-        | in 	      |  593    |
-        | on	      |  476    |
-        | of 	      |  427    |
+        | in 	        |  593    |
+        | on	        |  476    |
+        | of 	        |  427    |
         | from 	      |  424    |
         | retrieved   |	 422    |
         | tendulkar   |  399    |
