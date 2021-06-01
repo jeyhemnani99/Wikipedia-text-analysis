@@ -17,7 +17,6 @@ Import following libraries:
 Example:
 
 Url:https://en.wikipedia.org/wiki/Sachin_Tendulkar
-(only wikipedia url works)
 
 output: | Words       |  Count  |
         | the 	      |  1338   |
