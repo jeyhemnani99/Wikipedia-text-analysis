@@ -3,8 +3,8 @@ a Web Application that takes Wikipedia URL as input via simple Frontend form. On
 
 Web application using flask/pyhton.
 
-# Frontend: form.html & style.css
-# Backend: app.py
+Frontend: form.html & style.css
+Backend: app.py
 
 before compiling the code, 
 Import following libraries:
