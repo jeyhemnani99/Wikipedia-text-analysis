@@ -9,10 +9,7 @@ Backend: app.py
 before compiling the code, 
 Import following libraries:
                            Flask                
-                           request              
-                           render_template      
-                           requests             
-                           BeautifulSoup        
+                           bs4        
 
 Example:
 
