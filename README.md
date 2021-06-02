@@ -9,8 +9,8 @@ Backend: app.py
 before compiling the code, 
 Import following libraries:
                            Flask                
-                           bs4        
-
+                           bs4      (for Beautiful Soup)
+                           requests (mostly preinstalled)
 Example:
 
 Url:https://en.wikipedia.org/wiki/Sachin_Tendulkar
