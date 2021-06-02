@@ -8,11 +8,11 @@ Backend: app.py
 
 before compiling the code, 
 Import following libraries:
-                           Flask                (pip install Flask)
-                           request              (pip install request)
-                           render_template      (pip install render_template)
-                           requests             (pip install requests)
-                           BeautifulSoup        (pip install beautifulSoup)
+                           Flask                
+                           request              
+                           render_template      
+                           requests             
+                           BeautifulSoup        
 
 Example:
 
